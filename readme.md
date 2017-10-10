@@ -2,7 +2,9 @@
 
 ## Dicas:
 a) Os códigos são em php.
+
 b) Em php, toda variável começa obrigatoriamente com $. ex: $i = 10.
+
 c) Pesquise o que é passar uma variável por GET em php.
 
 ## Primeira Fase
