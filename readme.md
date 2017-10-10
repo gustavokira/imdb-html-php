@@ -1,4 +1,5 @@
 # Filmes: o retorno.
+Este trabalho tem como objeto estabelecer a comunicação entre uma página html e um banco de dados.
 
 ## Dicas:
 a) Os códigos são em php.
