@@ -29,4 +29,6 @@ c) Pesquise o que é passar uma variável por GET em php.
 
 ## Quarta Fase
 
-1) Deixe o site legal.
+1) Pesquise sobre SQL injection. 
+2) Proteja o site contra SQL injection.
+3) Deixe o site legal.
